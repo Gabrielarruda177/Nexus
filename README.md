@@ -227,5 +227,4 @@ vendor/bin/pint --format agent
 ---
 
 *Desenvolvido com excelência para o Hackathon FATEC Itaquera 2026.*
-#   N e x u s  
- 
+#
